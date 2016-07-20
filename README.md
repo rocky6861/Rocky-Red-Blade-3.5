@@ -1,3 +1,3 @@
 # Rocky-Red-Blade-3.5
 
-To update your campaign. Overwrite your corerules with the one in this git
+Replace your campaigns/corerules.rw3 with the one in this git
